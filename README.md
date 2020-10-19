@@ -26,7 +26,7 @@ When you create the app this way you can rename it afterwards.
 * `heroku create -b https://github.com/mars/create-react-app-buildpack.git`
 * `git add .`
 * `git commit -m "react-create-app on Heroku"`
-* `git push heroku master`
+* `git push heroku main`
 * `heroku open`
 
 ## Create Empty GitHub Repo
@@ -45,5 +45,5 @@ Create empty github repo and follow instructions to **push existing repository f
 * `git commit -m "Woo Hoo it's a React App deployed to Heroku and GitHub in 10 minutes"`
 * `git push origin main`
 
-* `git push heroku master`
+* `git push heroku main`
 

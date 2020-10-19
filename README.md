@@ -43,7 +43,7 @@ Create empty github repo and follow instructions to **push existing repository f
 
 * `git add -A`
 * `git commit -m "Woo Hoo it's a React App deployed to Heroku and GitHub in 10 minutes"`
-* `git push origin master`
+* `git push origin main`
 
 * `git push heroku master`
 
